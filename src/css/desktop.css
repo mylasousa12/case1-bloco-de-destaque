@@ -31,7 +31,7 @@ main>.thumbnail-block {
     justify-content: start;
     align-items: center;
     flex-direction: column;
-    background-image: url("src/img/thumbnail-background.jpg");
+    background-image: url("https://mylasousa12.github.io/case1-bloco-destaque-para-site/src/img/thumbnail-background.jpg");
     background-repeat: no-repeat;
     background-position: bottom;
     background-size: cover;
