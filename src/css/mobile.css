@@ -1,0 +1,10 @@
+@media (max-width: 600px) {
+    main>.thumbnail-block>h1 {
+        font-size: 2em;
+    }
+    
+    main>.thumbnail-block>p {
+        font-size: 1em;
+        max-width: unset;
+    }
+}
